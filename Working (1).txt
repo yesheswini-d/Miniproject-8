@@ -1,0 +1,13 @@
+User Input
+     ↓
+Data Preprocessing
+     ↓
+Feature Encoding
+     ↓
+Feature Scaling
+     ↓
+Logistic Regression
+     ↓
+Prediction
+     ↓
+Loan Approved / Not Approved

@@ -1,0 +1,18 @@
+🏦 Loan Approval Prediction
+
+Enter the applicant details below to predict
+whether the loan is likely to be approved.
+
+Gender:              Male
+Married:             Yes
+Education:           Graduate
+Self Employed:       No
+Applicant Income:    5000
+Coapplicant Income:  1500
+
+Loan Amount:         150
+Loan Term:           360
+Credit History:      Good (1)
+Property Area:       Urban
+
+        🔮 Predict Loan Approval

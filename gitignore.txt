@@ -1,0 +1,25 @@
+
+---
+
+# 5. `.gitignore`
+
+Create the file with **exactly this name**:
+
+```text
+.gitignore
+
+
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+
+.vscode/
+.idea/
+
+.env
+
+.DS_Store
